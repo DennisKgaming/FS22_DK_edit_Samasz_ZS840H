@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="60">
+
+    <author>DennisK</author>
+	
+    <version>1.0.0.0</version>
+	
+    <title>
+        <en>Samasz Z2-840 H DK edit</en>
+    </title>
+	
+    <description>
+        <en>My Mod Description</en>
+    </description>
+	
+    <iconFilename>icons/icon_z2840.png</iconFilename>
+	
+    <storeItems>
+        <storeItem xmlFilename="xml/z2840.xml"/>
+    </storeItems>
+	
+	<multiplayer supported="true"/>
+	
+	<extraSourceFiles>
+        <sourceFile filename="scripts/categorizer.lua"/>
+    </extraSourceFiles>
+	
+	<newcategory name="DennisKtools" title="DennisK" type="TOOL" img="Categories/CategoryTools.png" />
+	
+	
+</modDesc>
