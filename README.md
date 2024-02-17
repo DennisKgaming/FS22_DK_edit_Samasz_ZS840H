@@ -1,0 +1,1 @@
+# FS22_DK_edit_Samasz_ZS840H
